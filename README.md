@@ -1,7 +1,7 @@
 OnStepX Telescope Controller
 ===========================
 # Important
-There is no release of OnStepX yet but it has basic testing done now and all features are implemented so I consider it ready testing by advanced OnStep users.
+There is no release of OnStepX yet but it has basic testing done now and all features are implemented so I consider it ready for testing by advanced OnStep users.
 
 # What is OnStepX?
 OnStepX is the advanced version of the OnStep computerized telescope controller with support for both stepper motors (step/dir interface) and servo motors (PD or II interface using AB quadrature or CW/CCW or Pulse/Dir encoders.)
